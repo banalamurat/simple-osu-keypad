@@ -3,6 +3,7 @@ A very simple Design to build a osu! DIY Keypad using Arduino Leonardo/Uno etc.
 Requirements:
 - Breadboard
 - Keyboard Switches (I use the Gateron Mountain-Top Linear Switches)
+- Keycaps (obviously)
 - Jumper Wires
 - Arduino with HID Device support (I use Arduino Leonardo and it works fine for me)
 

@@ -7,7 +7,7 @@ Requirements:
 - Jumper Wires
 - Arduino with HID Device support (I use Arduino Leonardo and it works fine for me)
 
-(I connected jumper wires to the Keyboard switches because the Switches are not gonna suit to the Breadboard. I glued it afterwards with hot glue, if you got a 3D Printer you can print your own case)
+(I connected jumper wires to the Keyboard switches because the Switches are not gonna suit to the Breadboard. I glued it afterwards with hot glue to stabilize them. I dont own a 3D Printer and didnt do a special case. It works very well for me, if you got a 3D Printer you can print your own case)
 
 Building:
 

@@ -10,7 +10,7 @@ Requirements:
 
 Building:
 
-<img width="1260" height="718" alt="grafik" src="https://github.com/user-attachments/assets/ae85736d-d605-4e58-a254-95c3bd877b52" /># simple-osu-keypad
+<img width="1260" height="718" alt="grafik" src="https://github.com/user-attachments/assets/4e49ec05-43ca-46ba-956d-1bad2145616e" />
 
 
 Wire the cables just like on the Picture

@@ -11,7 +11,8 @@ Requirements:
 
 Building:
 
-<img width="1260" height="718" alt="grafik" src="https://github.com/user-attachments/assets/4e49ec05-43ca-46ba-956d-1bad2145616e" />
+<img width="1260" height="717" alt="grafik" src="https://github.com/user-attachments/assets/571063f4-ecaf-4cc9-8d74-b6ffc94ca8b9" />
+
 
 
 Wire the cables just like on the Picture

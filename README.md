@@ -15,8 +15,8 @@ Building:
 
 
 
-Wire the cables just like on the Picture
-Paste the Code in Arduino IDE, and Upload it to your Arduino and the magic happened.
+Wire the cables just like on the Picture,
+paste the Code in Arduino IDE, and upload it to your Arduino and the magic happened.
 
 I use the keys A and S to play the game, you can change it 
 

@@ -1,4 +1,4 @@
-A very simple Design to build a osu! DIY Keypad using Arduino Leonardo/Uno etc.
+A very simple beginner-friendly Design to build a osu! DIY Keypad using Arduino Leonardo/Uno etc.
 
 Requirements:
 - Breadboard
